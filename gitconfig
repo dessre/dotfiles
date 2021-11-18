@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = dessre_d@hotmail.com
+	name = Kangming Chen
